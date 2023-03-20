@@ -6213,7 +6213,7 @@
         "repo": "KarthikRaju391/obsidian-float"
     },
     {
-        "id": "obsidian-tab-rotator",
+        "id": "tab-rotator",
         "name": "Tab Rotator",
         "author": "Steven Jin",
         "description": "This plugin rotates opened tabs to the left or right with a specified interval",
